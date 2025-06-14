@@ -5,6 +5,8 @@ description: "Improving redemption forecasts and building sales prediction model
 categories: [time series, forecasting, portfolio]
 tags: [xgboost, prophet, shap, python, toronto]
 ---
+
+
 ### Technical Summary
 
 The objective of this project was to improve the accuracy of daily ferry redemption forecasts and develop a second model to predict ticket sales using data from the City of Toronto Open Data Portal.
